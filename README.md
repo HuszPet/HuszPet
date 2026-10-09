@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Péter 👋
 
-<!--
-**HuszPet/HuszPet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science BSc student at Eötvös Loránd University (ELTE),
+specializing in software development.
 
-Here are some ideas to get you started:
+I'm primarily interested in backend and general software development.
+I'm currently looking for my first software development internship,
+where I can gain practical experience and complete my mandatory internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- **Minesweeper — C#, .NET 8, WPF, MVVM, Windows Forms**  
+  Two implementations of a two-player Minesweeper application.
+
+- **Parking Lot — Java, JUnit 5**  
+  An object-oriented multi-storey parking model with automated tests.
+
+- **Vineyard Manager — C, POSIX**  
+  A console application demonstrating file handling, dynamic memory
+  management and inter-process communication.
+
+## Technologies
+
+- **Languages:** Java, C#, C, C++, Python
+- **Frameworks and tools:** .NET, WPF, Windows Forms, JUnit 5, Git, GitHub
+- **Concepts:** Object-oriented programming, algorithms, data structures,
+  unit testing, file handling
+  
