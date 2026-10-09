@@ -12,10 +12,10 @@ where I can gain practical experience and complete my mandatory internship.
 ### [Minesweeper](https://github.com/HuszPet/minesweeper-dotnet)
   Two implementations of a two-player Minesweeper application.
 
-- **Parking Lot — Java, JUnit 5**  
+### [Parking Lot](https://github.com/HuszPet/parking-lot-java)
   An object-oriented multi-storey parking model with automated tests.
 
-- **Vineyard Manager — C, POSIX**  
+### [Vineyard Manager](https://github.com/HuszPet/vineyard-manager-c)
   A console application demonstrating file handling, dynamic memory
   management and inter-process communication.
 
