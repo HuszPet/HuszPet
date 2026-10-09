@@ -1,4 +1,4 @@
-# Hi, I'm Péter 👋
+# Hi, I'm Péter
 
 I'm a Computer Science BSc student at Eötvös Loránd University (ELTE),
 specializing in software development.
